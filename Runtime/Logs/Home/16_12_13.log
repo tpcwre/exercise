@@ -1,0 +1,4100 @@
+[ 2016-12-13T11:15:12+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:15:22+08:00 ] ::1 /exercise/index.php/Home/Index/obj_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: create table 以1(id int primary key auto_increment,ch varchar(9) not null,en varchar(9) not null); [ RunTime:0.0210s ]
+SQL: SHOW COLUMNS FROM `以1` [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:15:24+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:15:25+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=%E4%BB%A51
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:15:27+08:00 ] ::1 /exercise/index.php/Home/Index/obj_del
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: drop table 以1 [ RunTime:0.0130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:15:27+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:15:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:28:35+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:28:36+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:28:42+08:00 ] ::1 /exercise/index.php/Home/Index/obj_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: create table a4(id int primary key auto_increment,ch varchar(9) not null,en varchar(9) not null); [ RunTime:0.0260s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T11:28:43+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:28:45+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:29:25+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:35:04+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:37:31+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:37:46+08:00 ] ::1 /Home/Index/index?tn=a4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T11:38:08+08:00 ] ::1 /exercise/index.php/Home/Index/obj_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: create table t11(id int primary key auto_increment,ch varchar(9) not null,en varchar(9) not null); [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `t11` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:38:09+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:38:13+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=t11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:38:15+08:00 ] ::1 /exercise/index.php/Home/Index/obj_del
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: drop table t11 [ RunTime:0.0170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:38:15+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T11:39:02+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:39:43+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:39:44+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:39:59+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T11:40:25+08:00 ] ::1 /exercise/index.phpHome/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:40:30+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:40:34+08:00 ] ::1 /exercise/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T11:40:39+08:00 ] ::1 /exercise/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:25:32+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:25:51+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:26:11+08:00 ] ::1 /exercise/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:26:11+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:26:15+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:26:16+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:26:45+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:26:46+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:32+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T13:27:36+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:37+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:38+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:38+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:27:48+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:49+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:27:52+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:27:52+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:28:00+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T13:28:00+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:28:11+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:28:11+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:28:11+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:28:12+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:29:27+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:29:56+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:29:57+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:30:41+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:30:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:30:45+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:30:46+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:33:29+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:33:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:34:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:34:10+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:34:22+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:34:23+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T13:34:51+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:34:53+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:35:05+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:35:06+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:35:49+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:29+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:30+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:31+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:37:42+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:42+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:48+08:00 ] ::1 /exercise/index.php/Home/Index/obj_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: create table aa55(id int primary key auto_increment,ch varchar(9999) not null,en varchar(9999) not null); [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:37:50+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:39:19+08:00 ] ::1 /exercise/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:39:23+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:39:24+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0120s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:40:10+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T13:40:11+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Array to string conversion C:\xampp\htdocs\exercise\Home\Controller\IndexController.class.php 第 57 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:40:29+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:40:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:40:43+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:40:43+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:41:32+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:41:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:41:47+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:41:48+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:42:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:42:10+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:42:25+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:42:25+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:43:30+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:43:32+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:43:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:47:06+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:47:07+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+
+[ 2016-12-13T13:47:29+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:47:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+
+[ 2016-12-13T13:48:15+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:48:16+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+
+[ 2016-12-13T13:49:12+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:49:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:49:37+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:49:39+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:49:40+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:49:43+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:50:00+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:50:00+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:50:24+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:50:25+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:51:04+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:51:05+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:51:06+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0160s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:51:16+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:51:17+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:51:38+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T13:52:08+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:52:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:09+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:10+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:35+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:52:36+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:53:27+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:53:28+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:53:46+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:53:47+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:54:11+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:54:12+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:55:13+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:55:15+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:55:46+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:55:47+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:57:28+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:57:28+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:57:44+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:57:45+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T13:58:44+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:58:47+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=a3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:58:48+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T13:58:49+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T13:59:19+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T13:59:20+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:00:06+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:00:08+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:00:12+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:00:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:00:24+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T14:00:25+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:01:07+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=javascript
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:01:09+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:01:12+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T14:01:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:01:16+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:01:17+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:19:20+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:19:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:19:48+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T14:20:51+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T14:20:52+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:21:14+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:21:15+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:22:52+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:22:53+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:22:54+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:23:12+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:23:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:23:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:24:25+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:24:26+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T14:26:30+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:26:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:26:41+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:27:30+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:27:31+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:27:59+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:28:00+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:28:00+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:28:31+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:28:32+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:28:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0160s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:28:33+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:28:34+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:28:34+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:28:34+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:28:35+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:29:07+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:29:08+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:29:46+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:29:47+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:30:41+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:30:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:30:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:32:08+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:32:09+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T14:32:55+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:32:56+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:33:01+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:33:53+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:33:54+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0070s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T14:34:13+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:34:14+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:42:15+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:42:16+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T14:42:48+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T14:42:49+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T15:00:08+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T15:00:09+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T15:00:40+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T15:00:41+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T15:00:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0120s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T15:04:01+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T15:04:01+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:38:33+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:39:00+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:39:18+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:39:19+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:39:54+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:39:55+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:40:23+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:41:42+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:41:43+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:41:44+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:42:36+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:42:37+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:43:13+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:43:24+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:43:31+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:43:32+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0140s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:43:55+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:43:55+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T19:45:43+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T19:45:44+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:00:07+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:00:26+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:00:27+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:00:36+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:00:37+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:01:21+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:01:22+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:23+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:02:24+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:02:26+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:02:28+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:29+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:30+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:31+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0080s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:02:40+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:02:41+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:02:42+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:03:37+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:03:38+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:03:41+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:03:57+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T20:03:59+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:04:01+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:02+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:04+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:04:06+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:04:07+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:20+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:28+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:29+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:04:31+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:05:06+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:05:07+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T20:05:09+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0030s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0020s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:05:11+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:05:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:05:15+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:05:17+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:13+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:13+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T20:06:14+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:20+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:06:20+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0120s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:06:22+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:52+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:53+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0140s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T20:06:54+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:06:55+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-12-13T20:07:28+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:29+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:31+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:33+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-12-13T20:07:36+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:37+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:07:44+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:46+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0060s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-12-13T20:07:48+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0110s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0090s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-12-13T20:15:00+08:00 ] ::1 /exercise/index.php/Home/Index/index?tn=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-12-13T20:15:01+08:00 ] ::1 /exercise/index.php/Home/Index/sjll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW TABLES  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a3` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a3`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `a4` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `a4`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `aa55` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `aa55`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bootstrap` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `bootstrap`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `javascript` [ RunTime:0.0040s ]
+SQL: SELECT `id` FROM `javascript`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `linux_commend` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `linux_commend`  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `strfun` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `strfun`  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `temp` [ RunTime:0.0050s ]
+SQL: SELECT `id` FROM `temp`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
