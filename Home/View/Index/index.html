@@ -15,10 +15,20 @@
     <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 </head>
-
 <body>
+
+
+
 <div class='container'>
-<!----------------------------------------------------------------------->
+  <div class='row'>
+    <div class='col-sm-1 col-sm-offset-11'>
+      <if condition="$Think.cookie.userinfo eq ''">
+        <a href='__URL__/login'>登陆</a>
+      <else/>
+        <a href='__URL__/logout'>退出</a>
+      </if>
+    </div>
+  </div>
 
   <h1 class='text-center' style='font-weight:bold;color:red'>资料查询与练习</h1>
 
@@ -37,14 +47,17 @@
             </volist>
           </select>
         </div>
-
-        <div class='btn btn-info' style='margin-bottom:3px' id='scxm'>删除项目</div>
-        <div class='btn btn-info' style='margin-bottom:3px' id='tjxm'>添加项目</div>
+        <if condition="$Think.cookie.userinfo neq ''">
+          <div class='btn btn-info' style='margin-bottom:3px' id='scxm'>删除项目</div>
+          <div class='btn btn-info' style='margin-bottom:3px' id='tjxm'>添加项目</div>
+        </if>
         <div class='btn btn-info' style='margin-bottom:3px' id='sjll'>随机浏览</div>
         <div class='btn btn-info' style='margin-bottom:3px' id='cx'>查询</div>
         <div class='btn btn-info' style='margin-bottom:3px' id='mhcx'>模糊查询</div>
-        <div class='btn btn-info' style='margin-bottom:3px' id='tj'>添加</div>
-        <div class='btn btn-info' style='margin-bottom:3px' id='sc'>删除</div>
+        <if condition="$Think.cookie.userinfo neq ''">
+          <div class='btn btn-info' style='margin-bottom:3px' id='tj'>添加</div>
+          <div class='btn btn-info' style='margin-bottom:3px' id='sc'>删除</div>
+        </if>
         <div class='btn btn-info' style='margin-bottom:3px' id='zl'>总览</div>
     </div><br>
     
@@ -80,44 +93,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!----------------------------------------------------------------------->
 </div>
+
+
+
+
+
+
+
 <!--script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script-->
 <script src="__PUBLIC__/jquery.min.js"></script>

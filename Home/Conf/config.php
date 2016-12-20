@@ -11,4 +11,5 @@ return array(
     'DB_PREFIX'             =>  '',    // 数据库表前缀
     'DB_PARAMS'          	=>  array(), // 数据库连接参数    
     'DB_CHARSET'            =>  'utf8',      // 数据库编码默认采用utf8
+    'URL_MODEL'             =>  '2',
 );

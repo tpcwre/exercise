@@ -2,19 +2,49 @@
 namespace Home\Controller;
 use Think\Controller;
 class IndexController extends Controller {
+
+    public function login(){
+        $this->display();
+    }
+
+    public function login_c(){
+        $email=trim(I('post.email'));
+        $pwd=trim(I('post.pwd'));
+        $rem=trim(I('post.pwd'));
+        foreach(I('post.') as $k=>$v){
+            if(!trim($v)){
+                echo "<script>alert('邮箱或密码不得为空！');history.go(-1)</script>";exit;
+            }
+            $arr[$k]=trim($v);
+        }
+        echo '<pre>';
+        print_r($arr);
+        if($arr['email'] == 'tpcwre@163.com' && $arr['pwd'] =='abcdefg123'){
+            if($arr['rem']){
+                cookie('userinfo',json_encode($arr),36000);
+            }else{
+                cookie('userinfo',json_encode($arr));
+            }
+            $this->redirect('index');
+        }else{
+            echo "<script>alert('邮箱或密码不正确！');history.go(-1)</script>";exit;
+        }
+
+    }
+
+
+    //退出 
+    public function logout(){
+        cookie('userinfo',null);
+        $this->redirect('index');
+    }
+
+
+
     public function index(){
     	$m = M();
     	$tables = $m->db()->getTables();
-    	foreach($tables as $k=>$v){
-    		if($v == 'stat'){
-    			unset($tables[$k]);
-    			break;
-    		}
-    	}
     	session('tn',I('get.tn')?:tables[0]);
-
-    
-
     	$this->assign('tables',$tables);
     	$this->display();
     }
@@ -163,7 +193,8 @@ class IndexController extends Controller {
 
     //模糊查询
     public function mhcx(){
-        $left = trim(I('post.left'));
+        $left = urldecode(trim(I('post.left')));
+       // echo $left;exit;
         $tname = trim(I('post.tname'));
         $m = M($tname);
         $where['ch|en']=array('like',array("%{$left}%"));
@@ -191,6 +222,9 @@ class IndexController extends Controller {
             exit;
         }
         $arr = explode('---',$data);
+        if(!$arr[0] || !$arr[1]){
+            echo 'e3';exit;
+        }
         //print_r($arr);
         $m = M($tname);
         $res1 = $m->where(array('ch'=>$arr[0]))->find();
@@ -225,8 +259,6 @@ class IndexController extends Controller {
 
     //总览
     public function zl(){
-        echo urlencode('http://www.baidu.com/!@#$%');
-        /*
         $tname = I('post.tname');
         $data = M($tname)->select();
         if($data){
@@ -239,7 +271,6 @@ class IndexController extends Controller {
         }else{
             echo 'e1';
         }
-        */
     }
 
 }
