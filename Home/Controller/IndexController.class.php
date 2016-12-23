@@ -265,11 +265,13 @@ class IndexController extends Controller {
     public function zl(){
         $tname = I('post.tname');
         $data = M($tname)->select();
+        $count = count($data);
+        echo  "共有 {$count} 条数据!\r\n\r\n";
         if($data){
             foreach($data as $v){
                 echo $v['ch'];
                 echo $v['en'];
-                echo "\n\n\n\n\n";
+              //  echo "\n";
             }
        
         }else{
