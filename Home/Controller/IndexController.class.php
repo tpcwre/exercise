@@ -271,7 +271,7 @@ class IndexController extends Controller {
             foreach($data as $v){
                 echo $v['ch'];
                 echo $v['en'];
-              //  echo "\n";
+                echo "\n\n\n";
             }
        
         }else{
