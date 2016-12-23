@@ -93,6 +93,10 @@ class IndexController extends Controller {
                         }
                         $info[$tname] = $ids2;
                     }
+                    
+                    $dataj = json_encode($info);
+                    cookie('info',$dataj,3600); 
+                    echo 'reset';exit;
                 }
                 $rand = array_rand($info[$tname]);
                 $id = $info[$tname][$rand];

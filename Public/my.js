@@ -92,6 +92,10 @@
         tname:tname,
       },
       success:function(res){
+        if(res == 'reset'){
+          alert('该项目内容浏览完毕！');
+          exit;
+        }
         sessionStorage.ch = JSON.parse(res).ch;
         sessionStorage.en = JSON.parse(res).en;
         $('#text1').val(sessionStorage.ch);
