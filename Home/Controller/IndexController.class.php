@@ -263,7 +263,7 @@ class IndexController extends Controller {
         $data = M($tname)->select();
         if($data){
             foreach($data as $v){
-                echo '//====='.$v['ch'];
+                echo $v['ch'];
                 echo $v['en'];
                 echo "\n\n\n\n\n";
             }

@@ -73,8 +73,16 @@
 
   //== 随机浏览
   $('#sjll').click(function(){
+    if(sessionStorage.num){
+      var num = sessionStorage.num;
+      num ++;
+      sessionStorage.num = num;
+    }else{
+      sessionStorage.num = 1;
+    }
+    var str = "今天以经浏览了 "+sessionStorage.num+" 条信息!";
     $('#text1').val('');
-    $('#text2').val('');
+    $('#text2').val(str);
     var tname = $('#sel').val();   
     $.ajax({
       //url:'http://localhost/exercise/index.php/Home/Index/sjll',
@@ -232,4 +240,21 @@
         }
       }
     });
+  });
+
+
+
+  $('#zlcx').click(function(){
+    if(sessionStorage.hit){
+      var hit = sessionStorage.hit;
+      if(hit > 10){
+        $('#login').show();
+        sessionStorage.hit = 0;
+        exit;
+      }
+      hit ++;
+      sessionStorage.hit = hit;
+    }else{
+      sessionStorage.hit=1;
+    }
   });
