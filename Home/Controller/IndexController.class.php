@@ -95,7 +95,7 @@ class IndexController extends Controller {
                     }
                     
                     $dataj = json_encode($info);
-                    cookie('info',$dataj,3600); 
+                    cookie('info',$dataj,3600000); 
                     echo 'reset';exit;
                 }
                 $rand = array_rand($info[$tname]);
@@ -106,7 +106,7 @@ class IndexController extends Controller {
                 }
                 $info[$tname]=$temp;
                 $dataj = json_encode($info);
-                cookie('info',$dataj,3600);        
+                cookie('info',$dataj,3600000);        
             }else{
                 $tables = M()->db()->getTables();
                 foreach($tables as $k=>$v){
@@ -122,7 +122,7 @@ class IndexController extends Controller {
                         unset($ids2);
                     }
                 }
-                cookie('info',json_encode($info),36000);
+                cookie('info',json_encode($info),3600000);
             }
         }else{
             if(cookie('all')){
@@ -149,7 +149,7 @@ class IndexController extends Controller {
                 }
 
                 $dataj = json_encode($info);
-                cookie('all',$dataj,3600);        
+                cookie('all',$dataj,3600000);        
             }else{
                 $tables = M()->db()->getTables();
                 foreach($tables as $k=>$v){
@@ -165,7 +165,7 @@ class IndexController extends Controller {
                         unset($ids2);
                     }
                 }
-                cookie('all',json_encode($info),36000);
+                cookie('all',json_encode($info),3600000);
             }
         }
       //  echo $tname.'--';
@@ -270,7 +270,7 @@ class IndexController extends Controller {
         if($data){
             foreach($data as $v){
                 echo $v['ch'];
-                echo $v['en'];
+              //  echo $v['en'];
                 echo "\n\n\n";
             }
        

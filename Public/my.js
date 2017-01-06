@@ -32,10 +32,8 @@
         name:val
       },
       success:function(res){
-        //alert("{:I('session.tn')}");
         if(res == 1){
           alert('创建成功！');
-        //  location="__ACTION__?tn={:I('session.tn')}";
           location="/Home/Index/index";
         }
       }
