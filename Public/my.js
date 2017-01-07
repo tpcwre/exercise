@@ -97,6 +97,7 @@
         sessionStorage.ch = JSON.parse(res).ch;
         sessionStorage.en = JSON.parse(res).en;
         $('#text1').val(sessionStorage.ch);
+       // $('#text1').val(res);
       }
     });
    

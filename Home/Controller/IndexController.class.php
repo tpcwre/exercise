@@ -145,11 +145,14 @@ class IndexController extends Controller {
                     unset($info[$tname]);
                 }
                 if(!$info){
-                    cookie('all',null);exit;
+                    cookie('all',null);
+                    echo 'reset';
+                    exit;
                 }
 
                 $dataj = json_encode($info);
-                cookie('all',$dataj,3600000);        
+                cookie('all',$dataj,3600000);  
+              //  echo $dataj;exit;      
             }else{
                 $tables = M()->db()->getTables();
                 foreach($tables as $k=>$v){
