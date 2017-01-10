@@ -71,8 +71,8 @@
 
   //== 随机浏览
   $('#sjll').click(function(){
-    if(sessionStorage.num){
-      var num = sessionStorage.num;
+    if(sessionStorage.num){         //统计浏览次数
+      var num = sessionStorage.num;   
       num ++;
       sessionStorage.num = num;
     }else{
@@ -83,7 +83,6 @@
     $('#text2').val(str);
     var tname = $('#sel').val();   
     $.ajax({
-      //url:'http://localhost/exercise/index.php/Home/Index/sjll',
       url:'/Home/Index/sjll',
       type:'post',
       data:{
@@ -94,10 +93,8 @@
           alert('该项目内容浏览完毕！');
           exit;
         }
-        sessionStorage.ch = JSON.parse(res).ch;
-        sessionStorage.en = JSON.parse(res).en;
-        $('#text1').val(sessionStorage.ch);
-       // $('#text1').val(res);
+        var ch = decodeURIComponent(res);
+        $('#text1').val(ch);
       }
     });
    
@@ -107,28 +104,23 @@
   //== 查询
   $('#cx').click(function(){
     $('#text2').val('');
-    a = encodeURI($('#text1').val());
-    
-    if($('#text1').val() == sessionStorage.ch){
-      $('#text2').val(sessionStorage.en);
-    }else{
+    a = encodeURIComponent($('#text1').val());
       $.ajax({
-       // url:'http://localhost/exercise/index.php/Home/Index/cx',
         url:'/Home/Index/cx',
         type:'post',
         data:{
-          tname:$('#sel').val(),
-          left:a,
+          tname:$('#sel').val(),    //表名 
+          left:a,       //要查询的数据
         },
         success:function(res){
           if(res == 'e1'){
             $('#text2').val('查无此数据！');
           }else{
-            $('#text2').val(res);
+            $('#text2').val(decodeURIComponent(res));
           }
         }
       });
-    }
+    
 
   });
 
@@ -140,9 +132,7 @@
     }
     if($('#text1').val() != ''){
       var left = encodeURIComponent($('#text1').val());
-     // alert(left);exit;
       $.ajax({
-       // url:'http://localhost/exercise/index.php/Home/Index/mhcx',
         url:'/Home/Index/mhcx',
         type:'post',
         data:{
@@ -150,6 +140,7 @@
           tname:$('#sel').val(),
         },
         success:function(res){
+        //    alert(res);
             if(res == 'e1'){
               $('#text2').val('查无此数据！');
             }else{
@@ -178,9 +169,10 @@
       type:'post',
       data:{
         tname:$('#sel').val(),
-        datas:encodeURI($('#text1').val()),
+        datas:encodeURIComponent($('#text1').val()),
       },
       success:function(res){
+      //  alert(res);exit;
         if(res == 'e1'){
           alert('不能添加重复的内容！');
         }else if(res == 1){
@@ -197,15 +189,13 @@
 
   //删除
   $('#sc').click(function(){
+    if(!$('#text1').val()){
+      exit;
+    }
     if(!confirm('确认删除?')){
       exit;
     }
-    if(!$('#text1').val()){
-      alert('查询数据不得为空！');exit;
-    }
-   
     $.ajax({
-      //url:'http://localhost/exercise/index.php/Home/Index/sc',
       url:'/Home/Index/sc',
       type:'post',
       data:{
@@ -229,7 +219,6 @@
       alert('请先选择指定项目！');exit;
     }
     $.ajax({
-      //url:'http://localhost/exercise/index.php/Home/Index/zl',
       url:'/Home/Index/zl',
       type:'post',
       data:{
